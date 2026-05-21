@@ -49,3 +49,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Heavy Asset Store demo content (import from Asset Store)
+/Assets/TerrainDemoScene_URP/
+/Assets/TerrainDemoScene_URP.meta
+/Assets/TerrainDemoScene_HDRP/
+/Assets/TerrainDemoScene_HDRP.meta
